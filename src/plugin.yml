@@ -1,0 +1,8 @@
+name: SpeedrunWithFriends
+version: 1.0 (alpha)
+api-version: 1.16
+main: me.zdodatv.speedrunwithfriends.SpeedrunWithFriends
+commands:
+  speedrun:
+    description: Info for the SpeedrunWithFriends plugin
+    usage: /<command>
